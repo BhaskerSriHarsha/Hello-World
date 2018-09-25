@@ -1,4 +1,5 @@
 # Hello-World
 
-So yah. This will be the first version.
-Hmm..so this is going to be our branch version. Lets see
+Writing my first ... sort of first program in github. Looks cool till now.
+Really liked the feature of being able to create branches that are different from the 
+main program.
